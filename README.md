@@ -3,17 +3,13 @@
 ## 팀원
 <table>
   <tr>
-    <th>이용훈</th>
-    <th>홍혜원</th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://github.com/dldydgns.png" width="120" /><br/>
-      <a href="https://github.com/dldydgns">@이용훈</a>
+      <a href="https://github.com/dldydgns">이용훈</a>
     </td>
     <td align="center">
       <img src="https://github.com/hyewon8245.png" width="120" /><br/>
-      <a href="https://github.com/hyewon8245">@홍혜원</a>
+      <a href="https://github.com/hyewon8245">홍혜원</a>
     </td>
   </tr>
 </table>
@@ -43,6 +39,8 @@
 - **Logstash**: 데이터 수집 및 정제
 - **Elasticsearch**: 데이터 역색인 저장 및 집계처리
 - **Kibana**: 대시보드 구성 및 시각화
+
+![다이어그램](./캡처/다이어그램.png)
 
 ---
 
